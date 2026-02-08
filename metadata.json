@@ -1,0 +1,8 @@
+{
+  "name": "VisionAI - Accessibility Companion",
+  "description": "A real-time accessibility companion web application helping visually impaired users navigate and understand their environment using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
